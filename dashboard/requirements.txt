@@ -1,4 +1,4 @@
 streamlit
-st_folium
+streamlit-folium
 folium
 pandas
